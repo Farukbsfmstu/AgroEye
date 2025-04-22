@@ -1,6 +1,8 @@
 # AgroEye
 This project demonstrates a Smart Agriculture System powered by AgroEye drones, developed entirely using Core Java and the Java Collections Framework. It simulates drone operations in the field to monitor crops, detect issues, and optimize agricultural tasks such as watering, spraying, and area coverage.
-🌱 Key Features
+
+
+🌱 Key Features:
 
     🛰️ Drone Simulation: Simulates AgroEye drones flying over fields to monitor crops.
 
@@ -14,11 +16,11 @@ This project demonstrates a Smart Agriculture System powered by AgroEye drones, 
 
 💻 Tech Stack
 
-    Language: Java (Core Java)
+    ➤ Language: Java (Core Java)
 
-    Libraries: Java Collections Framework 
+    ➤ Libraries: Java Collections Framework 
 
-    Concepts Used:
+    ➤ Concepts Used:
 
         OOP (Object-Oriented Programming)
 
@@ -26,18 +28,18 @@ This project demonstrates a Smart Agriculture System powered by AgroEye drones, 
 
 📦 How It Works
 
-    The system initializes a virtual farm with field sections.
+    ➤ The system initializes a virtual farm with field sections.
 
-    Each drone is assigned to a section and gathers crop data (e.g., moisture, temperature).
+    ➤ Each drone is assigned to a section and gathers crop data (e.g., moisture, temperature).
 
-    Based on the data, the system generates alerts or actions.
+    ➤ Based on the data, the system generates alerts or actions.
 
-    All operations are managed using Java collections for efficient data handling.
+    ➤ All operations are managed using Java collections for efficient data handling.
 
 🎯 Use Cases
 
-    Academic demonstration of Java-based simulations.
+    ➤ Academic demonstration of Java-based simulations.
 
-    Concept prototyping for IoT-based smart farming.
+    ➤ Concept prototyping for IoT-based smart farming.
 
-    Training on OOP and Java Collections in a real-world scenario.
+    ➤ Training on OOP and Java Collections in a real-world scenario.
